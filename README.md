@@ -1,2 +1,2 @@
 # NikonPictureControls
-Picture controls for Nikon cameras
+Picture controls for NX studio or Nikon cameras
